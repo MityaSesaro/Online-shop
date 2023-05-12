@@ -1024,6 +1024,7 @@ body {
 
     .time-to-buy {
         margin-top: 175px;
+        min-height: 604px;
 
         h2 {
             width: 401px;
@@ -1062,7 +1063,7 @@ body {
             overflow-x: scroll;
 
             display: grid;
-            grid-template-columns: repeat(12, 280px);
+            grid-template-columns: repeat(30, 280px);
             margin-top: 60px;
             justify-content: start;
 
